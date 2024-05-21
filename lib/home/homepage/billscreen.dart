@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:invoice_generator/home/utils/globlevalues.dart';
-import 'package:printing/printing.dart';
 
 class BillingScreen extends StatefulWidget {
   const BillingScreen({super.key});
@@ -125,6 +124,13 @@ class _BillingScreenState extends State<BillingScreen> {
         shape: const CircleBorder(),
         backgroundColor: Colors.blue,
         onPressed: () {
+          setState(() {
+            value=0;
+            invoiceListlast[2].price=0;
+            value=invoice[selectindex].price - 200 - 120 - 840;
+            invoiceList[2].price=value;
+            invoiceListlast[2].price=invoice[selectindex].price+418.10;
+          });
           Navigator.of(context).pushNamed('/pdf');
         },
         child: const Icon(Icons.picture_as_pdf),
