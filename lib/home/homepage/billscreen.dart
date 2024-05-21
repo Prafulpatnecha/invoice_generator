@@ -126,7 +126,6 @@ class _BillingScreenState extends State<BillingScreen> {
         onPressed: () {
           setState(() {
             value=0;
-            invoiceListlast[2].price=0;
             value=invoice[selectindex].price - 200 - 120 - 840;
             invoiceList[2].price=value;
             invoiceListlast[2].price=invoice[selectindex].price+418.10;
