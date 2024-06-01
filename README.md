@@ -28,6 +28,11 @@ https://github.com/Prafulpatnecha/invoice_generator/assets/144161200/1cc988f8-7d
 <img src="https://github.com/Prafulpatnecha/invoice_generator/blob/master/Screenshot_20240520_232702.png" width="22%" Height="35%">
 <img src="https://github.com/Prafulpatnecha/invoice_generator/blob/master/Screenshot_20240520_232725.png" width="22%" Height="35%">
 <img src="https://github.com/Prafulpatnecha/invoice_generator/blob/master/Screenshot_20240520_232731.png" width="22%" Height="35%">
+<img src="https://github.com/Prafulpatnecha/invoice_generator/blob/master/Screenshot_20240521_225900.png" width="22%" Height="35%">
 </a>
 </p>
 <hr>
+<h2>➡️6.8 Invoice Generator Upgrade Video </h2>
+
+https://github.com/Prafulpatnecha/invoice_generator/assets/144161200/86d24492-77fe-435b-8717-d213a578219d
+
